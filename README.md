@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kelash Kumar</h1>
 <h3 align="center">A passionate and enthusiastic backend web developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="1000" height="600" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-- <h2  margin-top="100">🌱 I’m currently working on web development **HTML CSS JS REACT.JS AND NODE.JS**</h2>
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+- <h4>🌱 I’m currently working on web development **HTML CSS JS REACT.JS AND NODE.JS**</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
