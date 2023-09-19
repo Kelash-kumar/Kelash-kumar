@@ -14,7 +14,7 @@ I am a dedicated Software Engineer hailing from Pakistan, passionate about craft
 ⚡ Fun fact: I have a keen interest in movies and songs.<br>
 <h1>Connect With Me</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kelash-kumar-47245a255/" target="_blank">
+  <a href="https://www.linkedin.com/in/kelash-kumar-47245a255/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/kelash_raisal" target="_blank">
