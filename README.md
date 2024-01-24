@@ -1,5 +1,5 @@
 
-<h1>KELASH KUMAR - Web Developer</h1>
+<h1>KELASH KUMAR - MERN Stack Developer</h1>
 <p align="center">
   <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="coding">
 </p>
