@@ -24,9 +24,9 @@ I am a dedicated Software Engineer hailing from Pakistan, passionate about craft
 <hr>
 Languages and Tools
 <p align="left" >
-  <a margin="5px" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<!--   <a margin="5px" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+  </a> -->
   <a margin="5px" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
