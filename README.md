@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kelash Kumar - MERN Stack Developer</h1>
 <p align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Coding Banner">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Banner">
 </p>
 
 <h2 align="center">About Me</h2>
