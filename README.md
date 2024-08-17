@@ -5,7 +5,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am a passionate Software Engineer based in Pakistan, dedicated to crafting high-quality and innovative software solutions. My journey in the world of technology is an ongoing adventure, where I continuously seek knowledge and explore new horizons.
+I am a passionate Software Engineer based in Pakistan, dedicated to crafting high-quality and innovative software solutions. My journey in the world of technology is an ongoing adventure, where I continuously seek knowledge and explore new horizons
 
 ### What I'm Currently Up To
 
